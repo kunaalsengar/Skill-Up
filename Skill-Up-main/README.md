@@ -370,7 +370,7 @@ This project is licensed under the ISC License.
 ## 👤 Author
 
 **Kunal Sengar**
-- GitHub: [@Ankurjaincse01](https://github.com/kunaalsengar)
+- GitHub: [@kunaalsengar](https://github.com/kunaalsengar)
 - Repository: [Skill-up](https://github.com/kunaalsengar/Skill-up)
 
 ---
