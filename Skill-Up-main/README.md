@@ -367,11 +367,12 @@ This project is licensed under the ISC License.
 
 ---
 
-## 👤 Author
+# 👨‍💻 Developer
 
-**Kunal Sengar**
-- GitHub: [@kunaalsengar](https://github.com/kunaalsengar)
-- Repository: [Skill-up](https://github.com/kunaalsengar/Skill-up)
+Kunal Sengar
+
+GitHub:
+https://github.com/kunaalsengar
 
 ---
 
