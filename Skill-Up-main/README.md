@@ -369,9 +369,9 @@ This project is licensed under the ISC License.
 
 ## 👤 Author
 
-**Ankur Jain**
-- GitHub: [@Ankurjaincse01](https://github.com/Ankurjaincse01)
-- Repository: [Skill-up](https://github.com/Ankurjaincse01/Skill-up)
+**Kunal Sengar**
+- GitHub: [@Ankurjaincse01](https://github.com/kunaalsengar)
+- Repository: [Skill-up](https://github.com/kunaalsengar/Skill-up)
 
 ---
 
